@@ -1,0 +1,20 @@
+# Private work records and internal configuration
+/daily/
+/weekly/
+/technical/
+/config/
+/prompts/
+/skills/
+/templates/
+
+# Local credentials, evidence, and logs
+/.env
+/.env.*
+/evidence/
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
